@@ -1,0 +1,18 @@
+.navbar-toggler {
+    border: none;
+}
+
+.nav-link {
+    font-size: 1.05em;
+    text-transform: uppercase;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+}
+
+.navbar-brand {
+    font-size: 1.3em;
+}
+
+.active {
+    border-left: 1px #444 solid
+}
