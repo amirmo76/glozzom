@@ -101,6 +101,36 @@ footer p {
     font-size: 4em
 }
 
+#services-header {
+    height: 200px;
+    color: white;
+    background: url('https://picsum.photos/500?image=33');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    border-bottom: 1px #eee solid;
+}
+
+#blog-header {
+    height: 200px;
+    color: white;
+    background: url('https://picsum.photos/500?image=13');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    border-bottom: 1px #eee solid;
+}
+
+#contact-header {
+    height: 200px;
+    color: white;
+    background: url('https://picsum.photos/500?image=103');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    border-bottom: 1px #eee solid;
+}
+
 @media (max-width:768px) {
     .nav-item {
         width: 125px;
